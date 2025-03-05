@@ -1,2 +1,2 @@
 # InSightMail
-Email navigation tool for the visually impaired
+Email navigation tool for the visually impaired.
